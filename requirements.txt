@@ -4,3 +4,4 @@ matplotlib
 jupyter
 plotly
 pandas
+kaleido==0.1.*
